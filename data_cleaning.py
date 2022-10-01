@@ -13,6 +13,7 @@ import advertools as adv
 
 fb_data = pd.read_csv("facebook_0927.csv")
 tw_data = pd.read_csv('twitter_0927.csv')
+# add linked in data 
 
 string = fb_data['text']
 
